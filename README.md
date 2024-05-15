@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm beginner in web programming want to focus backend developer😇</p>
+<p align="left">I'm beginner in web programming want to focus backend developer 🤲</p>
 
 ###
 
