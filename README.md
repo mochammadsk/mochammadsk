@@ -1,9 +1,9 @@
 <h1>Hi there 👋</h1>
 <strong>I'm beginner in web programming want to focus backend developer 🤲</strong>
 <br/>
-  🔭 I’m currently working on [StayHub](https://github.com/mochammadsk/stayhub)<br/>
-  🌱 I’m currently **learning NodeJs & EJs**<br/>
-<br/>
+  💻 I’m currently working on <a href="https://github.com/mochammadsk/stayhub" target="blank">StayHub</a><br/>
+  🔎 I’m currently learning <strong>NodeJs & EJs</strong><br/>
+  📫 How to reach me <a href="mailto:mochrul.kurniawan@gmail.com" target="blank">mochrul.kurniawan@gmail.com</a><br/>
 <br/>
 <div align="center">
   <a href="https://github.com/mochammadsk/">
