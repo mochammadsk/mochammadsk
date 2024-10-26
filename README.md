@@ -1,6 +1,6 @@
-<h1 align="left">Hi there 👋</h1>
+<h1>Hi there 👋</h1>
+<strong>I'm beginner in web programming want to focus backend developer 🤲</strong>
 <br/>
-<p align="left">I'm beginner in web programming want to focus backend developer 🤲</p>
 <br/>
 <div align="center">
   <a href="https://github.com/mochammadsk/">
