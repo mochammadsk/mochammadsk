@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 <h3>I'm beginner in web programming want to focus backend developer 🤲</h3>
   💻 I’m currently working on <a href="https://nunwayo.com/home/">NunWaYo</a> as Backend Developer<br/>
-  💻 I’m currently working on project <a href="https://github.com/ProjectPlantCapstoneRamalKriptoID/backend">Ramal Kripto</a> as Backend Developer<br/>
+  💻 I’m also working on project <a href="https://github.com/ProjectPlantCapstoneRamalKriptoID/backend">Ramal Kripto</a> as Backend Developer<br/>
   🔎 I’m currently learning <strong>NodeJs, Typescript, Javascript, ExpressJs, NestJs, ReactJs</strong><br/>
   📫 How to reach me <a href="mailto:mochrul.kurniawan@gmail.com">mochrul.kurniawan@gmail.com</a><br/>
 <br/>
