@@ -1,5 +1,5 @@
 <p align="center">
-<h2>Hi there 👋</h2>
+<h1>Hi there 👋</h1>
 <h3>I'm junior web programming want to focus backend developer 🤲</h3>
   💻 I’m currently working on <a href="https://nunwayo.com/home/">NunWaYo</a> as Backend Developer<br/>
   🔎 I’m currently learning <strong>Laravel Framework</strong><br/>
