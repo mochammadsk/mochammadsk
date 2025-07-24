@@ -1,6 +1,5 @@
 <p align="center">
 <h1>Hi there 👋</h1>
-<h3>I'm junior web programming want to focus backend developer 🤲</h3>
   💻 I’m currently working on <a href="https://duniateknologinusantara.com/">PT. Dunia Teknologi Nusantara</a> as Full Stack Developer<br/>
   🔎 I’m currently learning <strong>Golang & Laravel Framework</strong><br/>
   📫 How to reach me <a href="mailto:mochrul.kurniawan@gmail.com">mochrul.kurniawan@gmail.com</a><br/>
