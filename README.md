@@ -1,6 +1,6 @@
 <p align="center">
 <h1>Hi there 👋</h1>
-  🔎 I’m currently learning <strong>Laravel & Vue3</strong><br/>
+  🔎 I’m currently learning <strong>Go & Vue3</strong><br/>
   📫 How to reach me <a href="mailto:mochrul.kurniawan@gmail.com">mochrul.kurniawan@gmail.com</a><br/>
 <br/>
 <a href="https://github.com/mochammadsk">
